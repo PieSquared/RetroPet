@@ -47,4 +47,33 @@ The reason I dont want to keep it on all the time is because it uses a lot of re
 
 ---
 
+---
+
+# November 13, 2026: Figuring out what parts I need
+
+Today I just spent my time resarching and making a list of what parts I would need
+
+## What i did i do
+
+I looked on sites like:
+
+- Amazon
+- AliExpress
+- Walmart??
+
+AliExpress had all the parts I needed
+
+It was really hard to find a touchscreen display that had the size I wanted, I decided on getting a 3.2 inch TFT. I wanted my screen to be big enough but not as big as the rasberrypi itself. The RPi is around 4 inches diagonally while the screen is 3.2 so I thought it would be a good fit. I needed a microphone and speaker for the google assistant addition which got me into a bit of a loop. I wated it to be portable while also being easy to assemble. I decided on using a random bluetooth speaker in my house and a tiny usb microphone. This setup makes the setup not as portable as I wanted it to but I might make the google assistant thing optional because I already have one, but still give users the option to have one. The rest of the parts were super easy to figure out, I just needed some f-f, m-f, and m-m jumper wires, buttons which I already have and a potentiometer which I also have. I want this build to be solderless so its super easy for beginners because when i tried my first soldering project it completely failed and I ended the day burning myself like 5 times. I think it would be pretty cheap to make this project, other than the RPI part which is like 35 USD which takes most of my cost, but I have it already so its fine :)
+
+## Tomorrow?
+
+Tomorrow I think I am going to work on the case, hopefully it will be simple but Im scared about desinging the actual monitor part because it looks complicated to print and design, I probably need to get it professionally printed. I am thinking about getting it printed from JLCPCB and using SLA resin because its cheap and pretty durable.
+
+**Total time spent: 1.5h**
+
+![](https://fabricate.hackclub-assets.com/81fafac64259481d4314749ebabb1e16644a83e4898ae9a7455274093c9e6d58/image-png/image.png)
+
+---
+
+
 
