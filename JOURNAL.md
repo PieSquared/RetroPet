@@ -74,6 +74,26 @@ Tomorrow I think I am going to work on the case, hopefully it will be simple but
 ![](https://fabricate.hackclub-assets.com/81fafac64259481d4314749ebabb1e16644a83e4898ae9a7455274093c9e6d58/image-png/image.png)
 
 ---
+---
+
+# November 14, 2026: Building the case part 1
+
+## What I did
+
+I didn't do that much but I did change some design choices, instead of putting the button on the front i put it on the side because it was too big annd took too much space. I also removed the knob and now we only have a button. The reason I did this is because there is no point of having buttons because we have a touch screen. I am almost done the whole case I just need to add some details and the cutout for the screen and I should be all done. This process was not that hard for me as I have done this before on On shape. The only part that was annoying was trying to find measurements for parts like the screen, the button and the rpi were easy because I have them on hand and there are plenty of 3d models, but the screen didn't have measurements online so I had to guess it, hopefully tomorrow I could maybe find a screen with measurements on them but for now I got to stick with it.
+
+## Tomorrow
+
+Tomorrow I just need to finish the case, add details and figure out the screen stuff. I think the project will be easy to assemble because I designed it so a 5 year old could build it. I think I will get it printed from JLCPCB because their prices are hella cheap.
+
+**Total time spent: 3.5h**
+
+![](https://fabricate.hackclub-assets.com/424fc981f44396fc088f7c4d5482d0834816578a8513b5b600acdc1c9fd6ff5b/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/42bd7617e60e1b487b4bb1764c98c2fd851c34756a01d464a5c76f527b4751eb/image-png/%7BCD1472A9-E3AE-47BC-953D-F2B0982850B8%7D.png)
+
+
+
+---
 
 
 
