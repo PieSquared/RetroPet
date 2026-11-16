@@ -5,7 +5,7 @@ Instead of screws, there are 3x1mm magnet inserts and this project requires no s
 
 ## Getting Started
 
-Refer to the [Tutorials](main/Tutorials) to get started.
+Refer to the [Tutorials](tree/main/main/Tutorials) to get started.
 
 ## Features (To be added)
 
