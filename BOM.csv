@@ -1,0 +1,11 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
+Rasberry Pi 3B,Part,1,35.63,35.63,https://www.pishop.ca/product/raspberry-pi-3-model-b-armv8-with-1g-ram/,PiShop,Already own,
+Push Button,Part,1,4.23,4.23,https://www.aliexpress.com/item/1005008777196309.html?spm=a2g0o.cart.0.0.32fe38dafpFp32&mp=1,AliExpress,Already own,
+Heatsinks,Part,1,1.01,1.01,https://www.aliexpress.com/item/1005007485322449.html?spm=a2g0o.cart.0.0.32fe38dafpFp32&mp=1,AliExpress,Grant,
+Jumper wires,Part,1,1.35,1.35,https://www.aliexpress.com/item/1005007205694593.html?spm=a2g0o.cart.0.0.32fe38dafpFp32&mp=1,AliExpress,Grant,
+3.2 Inch TFT TouchScreen,Part,1,14.38,14.38,https://www.aliexpress.com/item/1005009660218585.html?spm=a2g0o.cart.0.0.32fe38dafpFp32&mp=1,AliExpress,Grant,
+3x1mm round magnets,Part,1,3.50,3.50,https://www.aliexpress.com/item/1005012007043209.html?spm=a2g0o.detail.0.0.4bfav6GRv6GR3a&mp=1,AliExpress,Grant,
+USB mini Mic,Part,1,1.69,1.69,https://www.aliexpress.com/item/1005008759713432.html?spm=a2g0o.cart.0.0.32fe38dafpFp32&mp=1,AliExpress,Grant,Optional
+Bluetooth Speaker (any one works),Part,1,,,,,Already own,Optional
+Total,,,,61.79,,,,
+Grant total,,,,21.93,,,,
