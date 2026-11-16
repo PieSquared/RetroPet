@@ -1,5 +1,15 @@
+---
+title: "RetroPet!!!!!"
+github: "https://github.com/PieSquared/RetroPet"
+description: "A Desktop pet shaped like a vintage pc with a touchscreen screen powered by a rasberry pi 3b"
+created_at: "2026-11-12"
+total_time: "12h"
+---
 
-# November 12, 2026: A Little Bit of Planning
+# November 12, 2026: Lil bit of planning the project
+<!-- fabricate:entry 2791 -->
+
+## November 12, 2026: A Little Bit of Planning
 
 Today I spent my time on researching what I really want/need for this project. In the images is my prototyping sheet. It's messy because I like my sheets that way, but here is a summary.
 
@@ -39,17 +49,20 @@ I already have 2 scripts, so I could make a button combo that makes acivates it 
 
 The reason I dont want to keep it on all the time is because it uses a lot of resources and makes heat, which also made me realize I need heatsinks on it.
 
+---
 
-**Total time spent: 0.5h**
 
 ![](https://fabricate.hackclub-assets.com/5b4d79beb641e6a5b56d679dc8b9cf140ec149d032515227a5114a8933bf00f6/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/cec984cc2d29b96cacb1494738dfd31f84cd6387af8c48953e67a40bbf65236a/image-png/image.png)
 
----
+**Total time spent: 30m**
+
+# November 13, 2026: Planned out what parts I need
+<!-- fabricate:entry 2953 -->
 
 ---
 
-# November 13, 2026: Figuring out what parts I need
+## November 13, 2026: Figuring out what parts I need
 
 Today I just spent my time resarching and making a list of what parts I would need
 
@@ -69,14 +82,19 @@ It was really hard to find a touchscreen display that had the size I wanted, I d
 
 Tomorrow I think I am going to work on the case, hopefully it will be simple but Im scared about desinging the actual monitor part because it looks complicated to print and design, I probably need to get it professionally printed. I am thinking about getting it printed from JLCPCB and using SLA resin because its cheap and pretty durable.
 
-**Total time spent: 1.5h**
-
 ![](https://fabricate.hackclub-assets.com/81fafac64259481d4314749ebabb1e16644a83e4898ae9a7455274093c9e6d58/image-png/image.png)
 
----
+
 ---
 
-# November 14, 2026: Building the case part 1
+**Total time spent: 1h 30m**
+
+# November 14, 2026: Making the case part 1
+<!-- fabricate:entry 3032 -->
+
+---
+
+## November 14, 2026: Building the case part 1
 
 ## What I did
 
@@ -86,7 +104,6 @@ I didn't do that much but I did change some design choices, instead of putting t
 
 Tomorrow I just need to finish the case, add details and figure out the screen stuff. I think the project will be easy to assemble because I designed it so a 5 year old could build it. I think I will get it printed from JLCPCB because their prices are hella cheap.
 
-**Total time spent: 3.5h**
 
 ![](https://fabricate.hackclub-assets.com/424fc981f44396fc088f7c4d5482d0834816578a8513b5b600acdc1c9fd6ff5b/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/42bd7617e60e1b487b4bb1764c98c2fd851c34756a01d464a5c76f527b4751eb/image-png/%7BCD1472A9-E3AE-47BC-953D-F2B0982850B8%7D.png)
@@ -94,9 +111,13 @@ Tomorrow I just need to finish the case, add details and figure out the screen s
 
 
 ---
----
 
-# November 15, 2026: Finishing the Case
+**Total time spent: 3h 30m**
+
+# November 15, 2026: Finishing the case
+<!-- fabricate:entry 3142 -->
+
+## November 15, 2026: Finishing the Case
 
 ## What I did
 
@@ -106,16 +127,16 @@ Today I finished the case and added a ton of details to it, I also made the cuto
 
 Tomorrow I write the firmware for it and send it out for checking or something.
 
-**Total time spent: 3.5h**
 
 ![](https://fabricate.hackclub-assets.com/2c852909743bf51b8bf11db826d676b9c3587011457172c65b401dfd99724471/image-png/%7BB4B72424-B3B8-47E6-BF61-BCC87A17FC60%7D.png)
 ![](https://fabricate.hackclub-assets.com/830310a688806d2ddb509ecc8e73a9c1c1573a0a4f7b9748997cd68da9bd3cd8/image-png/%7B508CCD32-4590-43B6-87D8-B4F298CA1F10%7D.png)
 
+**Total time spent: 3h 30m**
 
----
----
+# November 16, 2026: Finishing the project
+<!-- fabricate:entry 3242 -->
 
-# November 16, 2026
+## November 16, 2026
 
 ## What I did
 
@@ -123,12 +144,7 @@ Today I did the firmware and all the stuff I need for this project to be approve
 
 I am going to ship this right now after I am done making the journal so thanks for being part of the journey whoever is reading these lol
 
-**Total time spent: 3h**
 
 ![](https://fabricate.hackclub-assets.com/c6148f19fa2c3dbd4920b06dfb561f3b692600459396aa436e2858576b36c399/image-png/image.png)
 
-
-
-
-
-
+**Total time spent: 3h**
