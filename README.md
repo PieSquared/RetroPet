@@ -8,6 +8,8 @@ I made this project because my desk was always so boring and I wanted something 
 
 # Getting Started
 
+Onshape Document: https://cad.onshape.com/documents/310541539d9e53a96d2df9a8/w/2972de71da7812dd4ca5e89f/e/cae6470a08aa104c497b2b68
+
 Want to make your own?
 
 ### Tutorials
