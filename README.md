@@ -40,7 +40,7 @@ Want to make your own?
 | 3.2-inch Touchscreen LCD | 1 | Display and touchscreen interface. |
 | Pushbutton | 1 | Physical input button. |
 | Jumper Wires | As needed | Connects the components without soldering. |
-| 3x1mm Magnets | 12 | Used for assembling the case without screws. |
+| 3x1mm Magnets | 30 | Used for assembling the case without screws. |
 | Custom Case | 1 | Retro computer-shaped enclosure, has 4 parts|
 
 For purchase links and component details, refer to the [(BOM.csv)](main/BOM.csv).
