@@ -3,6 +3,9 @@
 Retro Pets is a custom desktop pet / desktop pet framework full of features! It is powered by a Raspberry Pi 3B and features a 3.2 inch touchscree LCD and a pushbutton. The case is shaped like a Retro Computer and is designed so a beginner to electronics could build this.
 Instead of screws, there are 3x1mm magnet inserts and this project requires no soldering and is wired with jumper cables.
 
+## Why did i make this project?
+I made this project because my desk was always so boring and I wanted something that would make my room represent me instead of being boring and messy all the time
+
 # Getting Started
 
 Want to make your own?
