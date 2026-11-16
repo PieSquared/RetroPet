@@ -49,3 +49,7 @@ Want to make your own?
 | Custom Case | 1 | Retro computer-shaped enclosure, has 4 parts|
 
 For purchase links and component details, refer to the [(BOM.csv)](main/BOM.csv).
+
+## AI USE
+
+AI such as google search ai was used to find things and help me learn syntax for libraries and find parts I need for the project.
