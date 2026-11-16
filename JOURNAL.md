@@ -112,5 +112,23 @@ Tomorrow I write the firmware for it and send it out for checking or something.
 ![](https://fabricate.hackclub-assets.com/830310a688806d2ddb509ecc8e73a9c1c1573a0a4f7b9748997cd68da9bd3cd8/image-png/%7B508CCD32-4590-43B6-87D8-B4F298CA1F10%7D.png)
 
 
+---
+---
+
+# November 16, 2026
+
+## What I did
+
+Today I did the firmware and all the stuff I need for this project to be approved, the firmware right now is basic, only including the face thing but when I get the parts for it I can add all the features. I added a thing that allows custom sprites for the faces and I might make a tool that lets users easily make the sheets because they have to be in a very specific format and have set emotions. This project is very expensive because of the RasberryPi (which I already have) and the 3D printing. If someone were to make this I would probably print it from a local print farm, but it may droop because of how bad i made one of the parts, the walls are kind of thin too so... Anyway I made a BOM.csv, a README.md, a wire diagram and a Tutorials page where it teaches the user how to set stuff up, its not like anyones gonna make this tho.
+
+I am going to ship this right now after I am done making the journal so thanks for being part of the journey whoever is reading these lol
+
+**Total time spent: 3h**
+
+![](https://fabricate.hackclub-assets.com/c6148f19fa2c3dbd4920b06dfb561f3b692600459396aa436e2858576b36c399/image-png/image.png)
+
+
+
+
 
 
