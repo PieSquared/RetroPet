@@ -94,6 +94,23 @@ Tomorrow I just need to finish the case, add details and figure out the screen s
 
 
 ---
+---
+
+# November 15, 2026: Finishing the Case
+
+## What I did
+
+Today I finished the case and added a ton of details to it, I also made the cutouts to insert the magnets, i changed the magnet size from 5mm to 3mm which is pretty tiny but its because i don't want everything to be too thick. Also about the screen, I messaged the seller and she told me the exact dimensions of the screen and the entire board so I edited the model and fixed it up. For the details, I looked at a reference of a real vintage computer and took inspo. I added my own logo on it and exported it, after this journal I am going to upload everything to my github.
+
+## Tomorrow
+
+Tomorrow I write the firmware for it and send it out for checking or something.
+
+**Total time spent: 3.5h**
+
+![](https://fabricate.hackclub-assets.com/2c852909743bf51b8bf11db826d676b9c3587011457172c65b401dfd99724471/image-png/%7BB4B72424-B3B8-47E6-BF61-BCC87A17FC60%7D.png)
+![](https://fabricate.hackclub-assets.com/830310a688806d2ddb509ecc8e73a9c1c1573a0a4f7b9748997cd68da9bd3cd8/image-png/%7B508CCD32-4590-43B6-87D8-B4F298CA1F10%7D.png)
+
 
 
 
